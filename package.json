@@ -11,8 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^12.12.24",
-    "ts-interface-keys-transformer": "^1.0.7",
-    "ttypescript": "^1.5.8",
+    "ts-interface-keys-transformer": "^1.0.10",
+    "ttypescript": "^1.5.9",
     "typescript": "^3.7.4"
   }
 }
