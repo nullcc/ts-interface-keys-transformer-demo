@@ -1,0 +1,18 @@
+{
+  "name": "ts-interface-keys-transformer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ttsc -p tsconfig.json",
+    "start": "npm run build && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.24",
+    "ts-interface-keys-transformer": "^1.0.7",
+    "ttypescript": "^1.5.8",
+    "typescript": "^3.7.4"
+  }
+}
